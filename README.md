@@ -6,6 +6,7 @@ I'm only doing this as a hobby! Not as an actual up-to-date work! During my free
 Back to the issue at hand: Are you facing a problem with your schooloogle account (school google account) when you are trying to watch a youtube video thats ACTUALLY for educational purposes? Or certain websites are blocked because "It HaS bEeN bLoCkeD bY yOuR AdMiNisTaRtOr", knowing quite well that you're at home and want to go into this website? Or maybe it's settings you don't want on your personal computer to have from school? The fix is to press DO NO SYNC during the promt where it asks you, "Would you like to enable sync and download account information tied with it?". This setting in a way is telling you, "Would you like to sign in (good) AND have everything else along with settings, bookmarks, and settings, ect... to be installed to your computer (BAD)?". By saying no, it will allow you to sign into google applications, have the flexabilty to use multiple accounts, and enjoy that ability to not have to deal with unwanted things to be installed. Signing in into google classroom will work, along with google drive and other stuff.
 
 Now for the troubleshooting stuff.
+
 Q: I've signned in WITH sync and I want to remove this school profile so that I don't have to deal with these issues mentioned above, what should I do?
 A: Go to the google page where it tells you, "Who's using google?", go to the top right part on the box of the user, there should be a three dot stack, click on that, click delete, and delete everything related to the profile.
 
