@@ -8,6 +8,7 @@ Back to the issue at hand: Are you facing a problem with your schooloogle accoun
 Now for the troubleshooting stuff.
 
 Q: I've signned in WITH sync and I want to remove this school profile so that I don't have to deal with these issues mentioned above, what should I do?
+
 A: Go to the google page where it tells you, "Who's using google?", go to the top right part on the box of the user, there should be a three dot stack, click on that, click delete, and delete everything related to the profile.
 
 Q: I've deleted it now. But Now I want to sign back in to use google classroom. How to do that?
